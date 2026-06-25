@@ -6,6 +6,8 @@ Run one command inside a project and CAD Browser opens a private local website w
 
 Everything runs on your computer. Project files are not uploaded.
 
+![CAD Browser showing generated CAD thumbnails and the engineering file inspector](docs/images/file-inspector.jpg)
+
 ## Quick start
 
 Open a terminal inside the folder you want to browse:
@@ -99,6 +101,8 @@ Double-clicking a file card also opens the file in its default application.
 ## Search
 
 Search covers the entire project, even when a subfolder is currently open.
+
+![Global STEP search displayed as a dense visual grid](docs/images/project-search.jpg)
 
 It matches:
 
